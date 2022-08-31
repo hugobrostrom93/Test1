@@ -1,0 +1,15 @@
+/Users/hugobrostrom/Projects/TestProj/TestProj/bin/Debug/net6.0/TestProj
+/Users/hugobrostrom/Projects/TestProj/TestProj/bin/Debug/net6.0/TestProj.deps.json
+/Users/hugobrostrom/Projects/TestProj/TestProj/bin/Debug/net6.0/TestProj.runtimeconfig.json
+/Users/hugobrostrom/Projects/TestProj/TestProj/bin/Debug/net6.0/TestProj.dll
+/Users/hugobrostrom/Projects/TestProj/TestProj/bin/Debug/net6.0/TestProj.pdb
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/TestProj.csproj.AssemblyReference.cache
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/TestProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/TestProj.AssemblyInfoInputs.cache
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/TestProj.AssemblyInfo.cs
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/TestProj.csproj.CoreCompileInputs.cache
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/TestProj.dll
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/refint/TestProj.dll
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/TestProj.pdb
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/TestProj.genruntimeconfig.cache
+/Users/hugobrostrom/Projects/TestProj/TestProj/obj/Debug/net6.0/ref/TestProj.dll
